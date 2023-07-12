@@ -1,0 +1,19 @@
+.top-bar {
+  background-color: #000000;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-weight: bold;
+  color: #fff;
+}
+
+.menu li {
+  display: inline-block;
+  margin-right: 10px;
+  cursor: pointer;
+  color: #fff;
+}
